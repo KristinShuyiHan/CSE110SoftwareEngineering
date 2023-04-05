@@ -1,8 +1,4 @@
 # Hi! I am Shuyi Han, a potential SWE and CS educator.<img src="IMG_8927.JPG" width="100">
-
-
-
-
 Currently a undergrad student at ***UCSD***, persuing degrees in  ***Cognitive Science*** and  ***Computer Science***. I am interested in ***CS, education, hoping to teach CS and  develope computing environments that facilitate learning in the future.***  
 Right now, I am developing projects alongside with my classes and working on the outside of class ones. 
 
