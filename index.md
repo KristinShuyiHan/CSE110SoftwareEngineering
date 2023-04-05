@@ -1,4 +1,4 @@
-# Hi! I am Shuyi Han, a potential SWE and CS educator.   <img src="https://github.com/KristinShuyiHan/CSE110SoftwareEngineering/blob/main/IMG_8927.JPG" width="100">
+# Hi! I am Shuyi Han, a potential SWE and CS educator.<img src="https://github.com/KristinShuyiHan/CSE110SoftwareEngineering/blob/main/IMG_8927.JPG" width="100">
 
 
 
@@ -6,19 +6,13 @@ Currently a undergrad student at ***UCSD***, persuing degrees in  ***Cognitive S
 Right now, I am developing projects alongside with my classes and working on the outside of class ones. 
 
 ## :computer: Projects 
-
 + ###  TikTok-like Short Video App ### 
 
 - [x] In developing process
 - [ ] Fully developed
 
 **Overview**
-
 ![](https://github.com/KristinShuyiHan/CSE110SoftwareEngineering/blob/main/Screenshot%202023-04-05%20at%2011.30.18%20AM.png)
-
-
-
-
 >Code Snippet
 
 
@@ -75,12 +69,6 @@ Coverage of technological Stack
 
 Currently, I just start building this projects. I hope that the App can achieve functions like user login, rich text box wangeditor [links](https://www.wangeditor.com/en/),login verification, Number of document readings and likes, timed takss, knowledge base, WebSocket Website Notification
 , and completes the display of relevant reports using e-charts. You can click on [here](http://wiki.courseimooc.com) to experience the project
-
-
-
- 
-
-
 ## :books: Related Courses
 ## CS
 
