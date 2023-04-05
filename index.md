@@ -1,4 +1,4 @@
-# Hi! I am Shuyi Han, a potential SWE and CS educator.<img src="https://github.com/KristinShuyiHan/CSE110SoftwareEngineering/blob/main/IMG_8927.JPG" width="100">
+# Hi! I am Shuyi Han, a potential SWE and CS educator.<img src="https://github.com/KristinShuyiHan/CSE110SoftwareEngineering/blob/main/IMG_8927.JPG">
 
 
 
