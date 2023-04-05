@@ -83,12 +83,10 @@ Currently, I just start building this projects. I hope that the App can achieve 
 ## Education & Cogs
 
 + COGS 120 Interaction Design
-+ COGS 121
 + COGS 123 Social Computing
 + EDS 124AR Teaching Computation in the Digital World
 + EDS 124BR Teaching Computational thinking to everyone
 
 [Relative Link 1](README.md)
-[Relative Link 2](.gitignore)
 
 
